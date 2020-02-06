@@ -17,7 +17,7 @@
 <http://etalonline.by/PrintText.aspx?regnum=Hk0300194>
 
 ###pikoap.txt
-ПРОЦЕССУАЛЬНО-ИСПОЛНИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ ОБ АДМИНИСТРАТИВНЫХ ПРАВОНАРУШЕНИЯХ 
+ПРОЦЕССУАЛЬНО-ИСПОЛНИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ ОБ АДМИНИСТРАТИВНЫХ ПРАВОНАРУШЕНИЯХ.  
 <http://www.pravo.by/document/?guid=3871&p0=Hk0600194>     
 <http://etalonline.by/PrintText.aspx?regnum=Hk0600194>
 
