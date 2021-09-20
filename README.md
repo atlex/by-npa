@@ -12,14 +12,12 @@
 <http://pravo.by/main.aspx?guid=3871&p0=p30500551>  
 
 ###koap.txt
-КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ ОБ АДМИНИСТРАТИВНЫХ ПРАВОНАРУШЕНИЯХ  
-<http://pravo.by/document/?guid=3871&p0=hk0300194>     
-<http://etalonline.by/PrintText.aspx?regnum=Hk0300194>
+КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ ОБ АДМИНИСТРАТИВНЫХ ПРАВОНАРУШЕНИЯХ     
+<https://etalonline.by/document/?regnum=hk2100091&q_id=3804779>
 
 ###pikoap.txt
 ПРОЦЕССУАЛЬНО-ИСПОЛНИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ ОБ АДМИНИСТРАТИВНЫХ ПРАВОНАРУШЕНИЯХ.  
-<http://www.pravo.by/document/?guid=3871&p0=Hk0600194>     
-<http://etalonline.by/PrintText.aspx?regnum=Hk0600194>
+<https://etalonline.by/document/?regnum=hk2100092&q_id=3804779>
 
 ###pol-osvidet-alko-497.txt
 ПОСТАНОВЛЕНИЕ СОВЕТА МИНИСТРОВ РЕСПУБЛИКИ БЕЛАРУСЬ № 497
