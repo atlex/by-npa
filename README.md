@@ -196,7 +196,8 @@
 <http://etalonline.by/document/?regnum=HK9900295>
 
 ### uk.txt
-УГОЛОВНЫЙ КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ  
+УГОЛОВНЫЙ КОДЕКС РЕСПУБЛИКИ БЕЛАРУСЬ   
+<https://etalonline.by/document/?regnum=hk9900275>   
 <http://pravo.by/document/?guid=3871&p0=hk9900275>
 
 --
